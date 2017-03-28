@@ -6,7 +6,9 @@
 
 <h3>Screenshots</h3>
 
-<img src="https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Aikan%20Adventures%20Picture.png" width ="200px" "https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Second%20ScreenShot.png" >
+<img src=https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Second%20ScreenShot.png width ="200px" >
+
+<img src="https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Aikan%20Adventures%20Picture.png" width ="200px" >
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
