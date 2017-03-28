@@ -6,4 +6,4 @@
 
 <h3>Screenshots</h3>
 
-<img scr ="https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Aikan%20Adventures%20Picture.png">
+<img scr ="https://github.com/Mzema4818/Aikan-Adventures-/blob/master/To%20the%20Game/images/Aikan%20Adventures%20Picture.png" >
