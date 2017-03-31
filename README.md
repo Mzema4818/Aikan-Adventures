@@ -14,3 +14,5 @@
 
 <h3>Resources</h3>
 <a href="https://www.python.org/downloads/"> Python Download</a>
+<a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> Pygame Download</a>
+<a href="https://youtu.be/_GikMdhAhv0"> How to install Pygame and Python</a>
