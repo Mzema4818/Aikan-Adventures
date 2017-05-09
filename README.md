@@ -6,7 +6,7 @@
 
 <h3>Controls</h3>
 <p>
-    W Key: Move Left</p>
+    A Key: Move Left</p>
 <p>
     D Key: Move Right</p>
 <p>
